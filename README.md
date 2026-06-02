@@ -362,32 +362,6 @@ ORDER BY Return_Rate_Pct DESC
 
 ---
 
-## 📁 Project Structure
-
-```
-📦 Superstore-Analysis
- ┣ 📂 Data
- ┃ ┣ 📄 superstore_raw.xlsx          # Original dataset
- ┃ ┗ 📄 superstore_final.xlsx        # Cleaned dataset
- ┣ 📂 SQL
- ┃ ┗ 📄 sales_analysis.sql           # All SQL queries (7 sections)
- ┣ 📂 Tableau
- ┃ ┣ 📄 Overview_Dashboard.twbx
- ┃ ┣ 📄 Sales_Dashboard.twbx
- ┃ ┣ 📄 Profit_Dashboard.twbx
- ┃ ┗ 📄 Orders_Returns_Dashboard.twbx
- ┣ 📂 PowerBI
- ┃ ┣ 📄 Customer_Orders.pbix
- ┃ ┗ 📄 Sales_Geography.pbix
- ┣ 📂 Python
- ┃ ┗ 📄 dashboard_app.py             # Plotly Dash web dashboard
- ┣ 📂 Presentation
- ┃ ┗ 📄 Superstore_Project.pdf       # Final presentation slides
- ┗ 📄 README.md
-```
-
----
-
 ## 🚀 How to Run
 
 ### SQL
@@ -409,14 +383,6 @@ pip install -r requirements.txt
 streamlit run app.py
 # Open http: http://localhost:8501/
 ```
-
----
-
-## 🔗 Links
-
-- 📂 **GitHub Repository:** [github.com/MohamedAfify2025/Data-analysis-project](https://github.com/MohamedAfify2025/Data-analysis-project)
-- 🎓 **Initiative:** Digital Egypt Pioneers — رواد مصر الرقمية
-- 🏫 **Training Partner:** CLS Learning Solutions (Since 1995)
 
 ---
 
